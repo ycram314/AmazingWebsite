@@ -16,9 +16,11 @@
 6. Vermont
 
 #Cities of residence
+
 *Rochester, N.Y.; Albany, N.Y.; Binghamton, N.Y.*
 
 #Cats
+
 Marcy's cats are named **Rohry** and **Jeri**
 
 
