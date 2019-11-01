@@ -1,4 +1,5 @@
 #Places visited
+
 ##Countries
 * United States
 * Canada
@@ -21,7 +22,8 @@
 
 #Cats
 
-Marcy's cats are named **Rohry** and **Jeri**
+Marcy's cats are named **Rohry** and **Jeri**. Marcy's cats combined are an octocat.
+![Octocat.png]
 
 
 
