@@ -1,6 +1,6 @@
-#Places visited
+# Places visited
 
-##Countries
+## Countries
 * United States
 * Canada
 * Mexico
@@ -8,7 +8,7 @@
 * England
 * Scotland
 
-##U.S. states
+## U.S. states
 1. New York
 2. Pennsylvania
 3. Ohio
@@ -16,11 +16,11 @@
 5. Maine
 6. Vermont
 
-#Cities of residence
+# Cities of residence
 
 *Rochester, N.Y.; Albany, N.Y.; Binghamton, N.Y.*
 
-#Cats
+# Cats
 
 Marcy's cats are named **Rohry** and **Jeri**. Marcy's cats combined are an octocat.
 ![Octocat.png]
