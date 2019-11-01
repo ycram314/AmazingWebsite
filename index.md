@@ -1,3 +1,29 @@
+#Places visited
+##Countries
+* United States
+* Canada
+* Mexico
+* Ireland
+* England
+* Scotland
+
+##U.S. states
+1. New York
+2. Pennsylvania
+3. Ohio
+4. Massachusetts
+5. Maine
+6. Vermont
+
+#Cities of residence
+*Rochester, N.Y.; Albany, N.Y.; Binghamton, N.Y.*
+
+#Cats
+Marcy's cats are named **Rohry** and **Jeri**
+
+
+
+
 You can use markdown to add content to you webpage.
 
 Here are some highlights of markdown syntax.
