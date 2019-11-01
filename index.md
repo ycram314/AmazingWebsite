@@ -23,7 +23,7 @@
 # Cats
 
 Marcy's cats are named **Rohry** and **Jeri**. Marcy's cats combined are an octocat.
-![Octocat.png] (images/Octocat.png)
+![Image of GitHub's mascot Octocat](images/Octocat.png)
 
 
 
@@ -64,4 +64,4 @@ Here are some highlights of markdown syntax.
 [This is a link](https://google.com)
 
 Here is an image. Don't forget some alt text for better accessibility!
-![Image of GitHub's mascot Octocat](images/Octocat.png)
+
